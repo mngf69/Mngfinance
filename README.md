@@ -89,7 +89,7 @@
     <div class="contact-info">
       <div>
         <p><strong>Email :</strong> contact@mngf.fr</p>
-        <p><strong>Téléphone :</strong> 06 12 34 56 78</p>
+        <p><strong>Téléphone :</strong> 06 66 14 64 46</p>
       </div>
       <div>
         <p><strong>Adresse :</strong> Lyon, France</p>
